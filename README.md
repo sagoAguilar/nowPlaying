@@ -9,13 +9,20 @@ As if for testing myself, as to show how i can improve.
 I will do this project using:
 
 -angularjs
+
 -nodejs
+
 -expressjs
+
 --npm twit for TWitter OAuth and REST calls
+
 -bootstrap
+
 -massonary
+
 -googleAPI
 
+-------
 Install node module dependencies:
 
 ```
