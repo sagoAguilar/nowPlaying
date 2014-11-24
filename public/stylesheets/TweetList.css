@@ -1,0 +1,84 @@
+body {
+  padding: 50px;
+ 	background: -moz-linear-gradient(top, #4099FF, #062242);
+ 	background: -ms-linear-gradient(top, #4099FF, #062242);
+ 	background: -webkit-linear-gradient(top, #999, #333);
+  background-attachment: fixed;
+  color: #333;
+}
+
+blockquote.twitter-tweet {
+	display: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 24px;
+	margin: 0 0 15px 0;
+	line-height: 40px;
+	color: #FFF;
+	font-weight: normal;
+}
+.wrapper{
+	max-width: 780px;
+	margin: 0 auto;
+}
+#tweet-list{
+	margin: 0 auto;
+}
+#twitter-logo {
+	display: inline-block;
+	height: 44px;
+	width: auto;
+	position: relative;
+	top: -6px;
+	margin: 0 10px 0 0;
+}
+
+.tweet-item {
+	margin-bottom: 10px;
+}
+
+.tweet-details {
+	padding-left: 15px;
+	font-size: 11px;
+	color: #999;
+}
+
+.tweet-details a {
+	color: #999;
+}
+
+#tweet-container {
+	margin-bottom: 20px;
+}
+
+.load-tweets-btn {
+	display: inline-block;
+}
+#twitter-logo-btn {
+	display: inline-block;
+	height: 18px;
+	width: auto;
+	position: relative;
+	top: -3px;
+	margin: 0 5px 0 0;
+}
+
+
+.twitter-logo {
+	margin-top: 2px;
+	width: auto;
+	height: 32px;
+	float: right;
+}
+
+.twitter-logo-btn {
+	margin-top: 2px;
+	width: auto;
+	height: 32px;
+	float: right;
+}
